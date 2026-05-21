@@ -2,6 +2,8 @@
 
 A GitHub-ready React/Vite copy of the public Base44 SecurAgent AI-agent marketplace, prepared for Render deployment.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/som2807/securagent-marketplace)
+
 ## Local Development
 
 ```bash
